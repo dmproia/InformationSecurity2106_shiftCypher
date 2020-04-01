@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ Start()
+comment1.params=
+comment1.target=void\ getDecrypt()
+comment2.params=
+comment2.target=void\ getEncrypt()
+comment3.params=alphanumeric
+comment3.target=boolean\ getValidAlpha(char)
+comment4.params=
+comment4.target=void\ getEndComment()
+comment5.params=
+comment5.target=void\ getFile()
+comment6.params=
+comment6.target=void\ getKey()
+numComments=7
